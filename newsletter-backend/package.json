@@ -1,0 +1,7 @@
+{
+  "name": "newsletter-backend",
+  "dependencies": {
+    "google-auth-library": "^9.0.0",
+    "node-fetch": "^2.6.7"
+  }
+}
