@@ -1,0 +1,6 @@
+{
+  "name": "newsletter-backend",
+  "dependencies": {
+    "google-auth-library": "^9.0.0"
+  }
+}
